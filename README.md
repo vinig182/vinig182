@@ -42,7 +42,7 @@ Descrição do Projeto
 ### Participante: 
 |name|email|present|receiveCertificate|course|
 | -------- | -------- | -------- |-------- | -------- |
-|Chaiana Hermes|chaiana_hermes@yahoo.com.br|true|false|Bootcamp React|
+|Vinicius Matheus Garstka|vinigarstka182@gmail.com|true|false|Bootcamp React|
 
 /*Para projetos com React*/
 $ npm test
