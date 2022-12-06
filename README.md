@@ -4,4 +4,4 @@
 - Meu perfil apresenta algumas carcacteristicas do Senhor Sauron, um personagem de fantasia em um mundo criado pelo escritor JRR Tolkien. 🧝‍♂️
 
 - Atualmente estudo no Sesi precisamente no Segundo Ano do Ensino médio, e sou muito feliz com a minha vida atual. 😄 
-- No futuro desejo me formar em engenharia de software.
+- No futuro desejo me formar em Engenharia de Software.
