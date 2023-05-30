@@ -2,7 +2,7 @@
 
 
 ### Descrição do Perfil
-<p align="justify"> Eu sou um estudante do Colégio Sesi na Cidade de Irati no Estado do Paraná, tenho 16 anos de idade e tenho pouco conhecimento em programação, algumas características apresentadas em meu Perfil são uma referência ao mundo de fantasia criado pelo escritor J. R. R. Tolkien.</p>
+<p align="justify"> Eu sou um estudante do Colégio Sesi na Cidade de Irati no Estado do Paraná, tenho 17 anos de idade e tenho pouco conhecimento em programação, algumas características apresentadas em meu Perfil são uma referência ao mundo de fantasia criado pelo escritor J. R. R. Tolkien.</p>
 
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 
